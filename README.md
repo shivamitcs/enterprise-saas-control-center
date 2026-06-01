@@ -64,81 +64,6 @@ The platform provides secure operational environments through configurable role-
 
 ---
 
-# Governance Infrastructure
-
-## Identity Management
-
-Centralized user administration with role assignments, profile management, status controls, and lifecycle monitoring.
-
-### Capabilities
-
-* User onboarding
-* User activation and deactivation
-* Profile management
-* Role assignments
-* Access control enforcement
-* Secure authentication workflows
-
----
-
-## Access Control System
-
-Enterprise RBAC infrastructure enabling organizations to manage permissions and operational access securely.
-
-### Features
-
-* Custom roles
-* Permission management
-* Administrative controls
-* Resource-level access governance
-* Operational segregation
-
----
-
-## Audit Monitoring Infrastructure
-
-Comprehensive operational visibility across platform activities.
-
-### Monitoring Features
-
-* User activity tracking
-* Login monitoring
-* Action history
-* Resource auditing
-* Security event visibility
-* Compliance reporting support
-
----
-
-## Operational Analytics
-
-Business and operational insights delivered through real-time dashboards and analytics modules.
-
-### Analytics Features
-
-* User growth metrics
-* Activity tracking
-* Operational reporting
-* Dashboard summaries
-* System statistics
-* Usage monitoring
-
----
-
-## Configuration Management
-
-Administrative configuration tools for managing platform behavior and operational settings.
-
-### Controls
-
-* Application settings
-* Maintenance mode
-* Session controls
-* Platform configuration
-* Operational preferences
-
----
-
 # Enterprise Features
 
 * Enterprise dashboard experience
@@ -212,7 +137,7 @@ Administrative configuration tools for managing platform behavior and operationa
 
 # System Architecture
 
-The platform follows a scalable enterprise architecture designed for governance, identity management, operational monitoring, analytics, and centralized administrative workflows.
+The platform follows a scalable enterprise architecture built for identity management, access governance, analytics, audit monitoring, and operational administration.
 
 <p align="center">
   <img
