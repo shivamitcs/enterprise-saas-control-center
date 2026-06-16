@@ -127,7 +127,7 @@ The platform provides secure operational environments through configurable role-
 
 ## Architecture & Operations
 
-* MERN Stack Architecture
+* MERN Stack Architecture 
 * Service Layer Pattern
 * Modular System Design
 * Scalable API Infrastructure
@@ -151,11 +151,7 @@ The platform provides secure operational environments through configurable role-
 The platform follows a scalable enterprise architecture built for identity management, access governance, analytics, audit monitoring, and operational administration.
 
 <p align="center">
-  <img
-    src="./assets/architecture/enterprise-saas-control-center-architecture.png"
-    width="100%"
-    alt="Enterprise SaaS Control Center System Architecture"
-  />
+  <img src="./assets/architecture/enterprise-saas-control-center-architecture.png" width="100%" alt="Enterprise SaaS Control Center System Architecture" />
 </p>
 
 ---
