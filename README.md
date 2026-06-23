@@ -8,7 +8,7 @@
 ![Architecture](https://img.shields.io/badge/Architecture-Enterprise-black)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Operations-purple)
 ![Deployment](https://img.shields.io/badge/Deployment-Production-success)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-Active-success) 
 
 Enterprise-grade SaaS administration platform engineered for identity management, access governance, operational analytics, audit monitoring, and centralized business operations through a modern full-stack architecture.
 
